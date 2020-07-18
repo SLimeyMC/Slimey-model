@@ -8,7 +8,12 @@
  *for sure* :eyes:
 ## Image
  > tasty cheese.
- 
+ ![lt-200](https://github.com/SLimeyMC/Arkan-Model/blob/master/Gun/LT_200%20(1).png)
+ ![lt-200](https://github.com/SLimeyMC/Arkan-Model/blob/master/Gun/LT_200%20(2).png)
+ ![lt-200](https://github.com/SLimeyMC/Arkan-Model/blob/master/Gun/LT_200%20(3).png)
+ ![lt-200](https://github.com/SLimeyMC/Arkan-Model/blob/master/Gun/LT_200%20(4).png)
+ ![lt-200](https://github.com/SLimeyMC/Arkan-Model/blob/master/Gun/LT_200%20(5).png)
+ ![lt-200](https://github.com/SLimeyMC/Arkan-Model/blob/master/Gun/LT_200%20(6).png)
 
 # Spefication
  LT-200 was laser thrower series 200 first gen. it still on experimental stage and will be more advance on future. LT-200 was directed-energy weapon based on infrared that make thermal blooming so it can destroy vechile or punch back
