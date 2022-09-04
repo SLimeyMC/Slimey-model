@@ -1,8 +1,5 @@
-# Arkan Model
- Arkan High Element Model
+# Slimey model
+ My beloved collection of my own creation truly blessed by my hand in which my mind partake on the creation of truly one and only
  
- Arkan Model is Model made by arkan that use pbr mats for better view and physically accurate use a [LabPBR](https://github.com/rre36/lab-pbr) format and try to reach limit of java minecraft modelling limitation use [Blockbench](https://blockbench.net) 
- I hope you like it
- 
-# Spefication
- Specification tell further on different gun
+ My minecraft model use one and only [LabPBR](https://github.com/rre36/lab-pbr) format and try to challenge the impossible while within the rule of java limitation using one of blessed tool made by genius brain under [Blockbench](https://blockbench.net) foundation
+ You have been blessed with my creation and return happily afterward.
